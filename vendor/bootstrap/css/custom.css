@@ -1,0 +1,68 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: pink;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    transition: 0.3s;
+}
+
+.bg-dark {
+    background-color: #000000 !important;
+}
+
+.card-header {
+    background-color: #000000;
+    color: pink;
+}
+
+.btn-primary {
+    background-color: pink;
+    color: #000;
+    border-color: pink;
+}
+
+.btn-primary:hover {
+    background-color: #000;
+    color: pink;
+    border-color: pink;
+    transition: 0.3s;
+}
+
+.card-body {
+    background-color: pink;
+}
+
+.card-title a {
+    color: #000;
+}
+
+.card-title a:hover {
+    color: #6f6f6f;
+    text-decoration: none;
+}
+
+.card-footer {
+    background-color: black;
+}
+
+.py-5 {
+    background-color: pink;
+}
+
+.py-5 .text-custom {
+    color: #000;
+    font-weight: 600;
+}
+
+.btn-secondary {
+    background-color: #000;
+    color: pink;
+    border-color: #000;
+}
+
+.btn-secondary:hover {
+    background-color: pink;
+    color: #000;
+    border-color: pink;
+    transition: 0.3s;
+}
